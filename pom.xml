@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>cn.cruder</groupId>
-    <artifactId>spring-validation-validation</artifactId>
+    <artifactId>spring-validation-sample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-validation-validation</name>
+    <name>spring-validation-sample</name>
     <description>Validation demo project for Spring Boot</description>
 
     <properties>
